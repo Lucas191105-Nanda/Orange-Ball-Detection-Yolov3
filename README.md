@@ -36,5 +36,5 @@ Upload your images into `/images/` folder in your repo, then replace the links b
 
 ## 🧠 YOLOv3-Tiny Model Files
 
-This project uses the following files:
+This project uses the following files: https://colab.research.google.com/drive/1wsPfpxsmZHeD1jNQfSs53m4nc3a43Yj6#scrollTo=I8CXqQboBIBr
 
