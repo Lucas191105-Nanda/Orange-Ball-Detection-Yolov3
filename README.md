@@ -30,9 +30,7 @@ You can download the dataset and trained weights from Google Drive:
 
 Upload your images into `/images/` folder in your repo, then replace the links below.
 
-![Sample Image 1](images/sample1.jpg)
-![Sample Image 2](images/sample2.jpg)
-![Sample Image 3](images/sample3.jpg)
+![Sample Image 1](images/image_124.jpg)
 
 ---
 
