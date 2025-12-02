@@ -1,0 +1,5 @@
+classes = 1
+train = /home/nanda/openCvProject/robotYolo/data/train.txt
+valid = /home/nanda/openCvProject/robotYolo/data/test.txt
+names = /home/nanda/openCvProject/robotYolo/data/obj.names
+backup = /home/nanda/openCvProject/robotYolo/backup
